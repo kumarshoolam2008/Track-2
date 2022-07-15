@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.headerStart {
+  font-weight: 600;
+  font-size: 20px;
+}
+.headerCenter {
+  display: flex;
+  width: 20rem;
+  justify-content: space-around;
+}
+.headerLast {
+  display: flex;
+  width: 14rem;
+  justify-content: space-around;
+  align-items: center;
+}
